@@ -1,7 +1,3 @@
-# Based on the structure and content glimpsed from the Jupyter notebook titled "Quantitative Analysis of Stock Market using Python," I'll draft a README.md that outlines the project's purpose, contents, and how users can get started with it. The project appears to cover several key areas of stock market analysis, including descriptive statistics, time series analysis, volatility analysis, comparative analysis, and daily risk versus return analysis, using Python and libraries such as Pandas and Plotly.
-
----
-
 # Quantitative Analysis of Stock Market using Python
 
 ## Project Overview
